@@ -42,7 +42,9 @@ img {
 
 .badgec {
   background-color: orange;
+  color: black;
   padding: 0.3rem 2rem;
   border-radius: 50rem;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
